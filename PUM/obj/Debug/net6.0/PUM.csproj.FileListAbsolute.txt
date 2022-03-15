@@ -1,0 +1,15 @@
+C:\Users\JoQueen\Desktop\Desafio de Codigo\PUM\bin\Debug\net6.0\PUM.exe
+C:\Users\JoQueen\Desktop\Desafio de Codigo\PUM\bin\Debug\net6.0\PUM.deps.json
+C:\Users\JoQueen\Desktop\Desafio de Codigo\PUM\bin\Debug\net6.0\PUM.runtimeconfig.json
+C:\Users\JoQueen\Desktop\Desafio de Codigo\PUM\bin\Debug\net6.0\PUM.dll
+C:\Users\JoQueen\Desktop\Desafio de Codigo\PUM\bin\Debug\net6.0\PUM.pdb
+C:\Users\JoQueen\Desktop\Desafio de Codigo\PUM\obj\Debug\net6.0\PUM.csproj.AssemblyReference.cache
+C:\Users\JoQueen\Desktop\Desafio de Codigo\PUM\obj\Debug\net6.0\PUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoQueen\Desktop\Desafio de Codigo\PUM\obj\Debug\net6.0\PUM.AssemblyInfoInputs.cache
+C:\Users\JoQueen\Desktop\Desafio de Codigo\PUM\obj\Debug\net6.0\PUM.AssemblyInfo.cs
+C:\Users\JoQueen\Desktop\Desafio de Codigo\PUM\obj\Debug\net6.0\PUM.csproj.CoreCompileInputs.cache
+C:\Users\JoQueen\Desktop\Desafio de Codigo\PUM\obj\Debug\net6.0\PUM.dll
+C:\Users\JoQueen\Desktop\Desafio de Codigo\PUM\obj\Debug\net6.0\refint\PUM.dll
+C:\Users\JoQueen\Desktop\Desafio de Codigo\PUM\obj\Debug\net6.0\PUM.pdb
+C:\Users\JoQueen\Desktop\Desafio de Codigo\PUM\obj\Debug\net6.0\PUM.genruntimeconfig.cache
+C:\Users\JoQueen\Desktop\Desafio de Codigo\PUM\obj\Debug\net6.0\ref\PUM.dll

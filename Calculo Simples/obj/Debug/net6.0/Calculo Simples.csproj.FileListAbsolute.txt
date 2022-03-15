@@ -1,0 +1,15 @@
+C:\Users\JoQueen\Desktop\Desafio de Codigo\Calculo Simples\obj\Debug\net6.0\Calculo Simples.csproj.AssemblyReference.cache
+C:\Users\JoQueen\Desktop\Desafio de Codigo\Calculo Simples\obj\Debug\net6.0\Calculo Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoQueen\Desktop\Desafio de Codigo\Calculo Simples\obj\Debug\net6.0\Calculo Simples.AssemblyInfoInputs.cache
+C:\Users\JoQueen\Desktop\Desafio de Codigo\Calculo Simples\obj\Debug\net6.0\Calculo Simples.AssemblyInfo.cs
+C:\Users\JoQueen\Desktop\Desafio de Codigo\Calculo Simples\obj\Debug\net6.0\Calculo Simples.csproj.CoreCompileInputs.cache
+C:\Users\JoQueen\Desktop\Desafio de Codigo\Calculo Simples\bin\Debug\net6.0\Calculo Simples.exe
+C:\Users\JoQueen\Desktop\Desafio de Codigo\Calculo Simples\bin\Debug\net6.0\Calculo Simples.deps.json
+C:\Users\JoQueen\Desktop\Desafio de Codigo\Calculo Simples\bin\Debug\net6.0\Calculo Simples.runtimeconfig.json
+C:\Users\JoQueen\Desktop\Desafio de Codigo\Calculo Simples\bin\Debug\net6.0\Calculo Simples.dll
+C:\Users\JoQueen\Desktop\Desafio de Codigo\Calculo Simples\bin\Debug\net6.0\Calculo Simples.pdb
+C:\Users\JoQueen\Desktop\Desafio de Codigo\Calculo Simples\obj\Debug\net6.0\Calculo Simples.dll
+C:\Users\JoQueen\Desktop\Desafio de Codigo\Calculo Simples\obj\Debug\net6.0\refint\Calculo Simples.dll
+C:\Users\JoQueen\Desktop\Desafio de Codigo\Calculo Simples\obj\Debug\net6.0\Calculo Simples.pdb
+C:\Users\JoQueen\Desktop\Desafio de Codigo\Calculo Simples\obj\Debug\net6.0\Calculo Simples.genruntimeconfig.cache
+C:\Users\JoQueen\Desktop\Desafio de Codigo\Calculo Simples\obj\Debug\net6.0\ref\Calculo Simples.dll
